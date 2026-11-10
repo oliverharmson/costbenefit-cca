@@ -1,0 +1,19 @@
+# Environment the analyses were run in (Python 3.10; versions are those used to produce the manuscript figures)
+name: cca-paper
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy==1.24.4
+      - pandas==1.5.3
+      - scipy==1.11.4
+      - statsmodels==0.14.5
+      - matplotlib==3.8.4
+      - seaborn==0.13.2
+      - pingouin==0.5.5
+      - pyarrow==21.0.0
+      - scikit-image==0.22.0
+      - pillow==11.3.0
+      - ray==2.49.1

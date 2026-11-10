@@ -1,0 +1,10 @@
+output/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large data files (too big for a normal git repository; host them elsewhere, e.g. Zenodo/OSF or Git LFS)
+data/773894_xy_tables/
+*.pbz2
+*.feather
+*.csv
