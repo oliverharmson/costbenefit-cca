@@ -6,6 +6,8 @@ Title: Dynamic information sharing across frontal-basal ganglia neurons during c
 
 Authors: Oliver Härmson<sup>1</sup>, Isaac Grennan<sup>1</sup>, Brook Perry<sup>1</sup>, Robert Toth<sup>2</sup>, Mark E. Walton<sup>3,4</sup>, Sanjay G. Manohar<sup>3,5</sup>, Andrew Sharott<sup>1, 6, 7</sup>
 
+DOI: https://doi.org/10.64898/2026.11.13.766393
+
 <sup>1</sup>Medical Research Council Centre of Research Excellence in Restorative Neural Dynamics, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, United Kingdom.
 <sup>2</sup>Department of Engineering Science, University of Oxford, Oxford, OX1 3PJ, United Kingdom.
 <sup>3</sup>Department of Experimental Psychology, University of Oxford, Oxford, United Kingdom.
